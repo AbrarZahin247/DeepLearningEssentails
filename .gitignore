@@ -1,0 +1,8 @@
+vgg
+json2mask_old.py
+input_images/*
+masks/*
+reshaped_images/*
+cli_commands.txt
+*.zip
+*.json
